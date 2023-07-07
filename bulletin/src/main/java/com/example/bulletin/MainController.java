@@ -1,4 +1,4 @@
-package com.example.bulletin.controller;
+package com.example.bulletin;
 
 
 import org.springframework.stereotype.Controller;
@@ -14,4 +14,8 @@ public class MainController {
         return "안녕하세요 sbb입니다.";
      }
 
+     @GetMapping("/")
+    public String root(){
+         return "redirect:/question/list";
+     }
 }
