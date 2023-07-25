@@ -1,4 +1,4 @@
-# spring_bulletin
+# 스프링부트로 만드는 게시판
 ![image](https://github.com/Lee-Kyuhwun/spring_bulletin/assets/107871734/346bbc8d-9d25-466d-8b74-7c7deefbfc5a)
 
 **요약**
